@@ -1,0 +1,83 @@
+{
+  "hosts" : [ {
+    "id" : "1",
+    "name" : "Ubuntu_24.04-prox",
+    "hostname" : "100.88.26.41",
+    "port" : 22,
+    "username" : "nitram",
+    "group" : "Tailscale_cloud",
+    "icon" : "UBUNTU"
+  }, {
+    "id" : "2",
+    "name" : "Proxmox",
+    "hostname" : "100.119.72.86",
+    "port" : 22,
+    "username" : "root",
+    "group" : "Proxmox",
+    "icon" : "DEBIAN"
+  }, {
+    "id" : "314",
+    "name" : "Debian vscode Sever",
+    "hostname" : "100.88.59.74",
+    "port" : 22,
+    "username" : "nitram",
+    "group" : "Dev",
+    "icon" : "ARCH"
+  }, {
+    "id" : "103",
+    "name" : "Dummy Host 3",
+    "hostname" : "192.168.1.103",
+    "port" : 22,
+    "username" : "user3",
+    "group" : "Group3",
+    "icon" : "ARCH"
+  }, {
+    "id" : "104",
+    "name" : "Dummy Host 4",
+    "hostname" : "192.168.1.104",
+    "port" : 22,
+    "username" : "user4",
+    "group" : "Group4",
+    "icon" : "UBUNTU"
+  }, {
+    "id" : "105",
+    "name" : "Dummy Host 5",
+    "hostname" : "192.168.1.105",
+    "port" : 22,
+    "username" : "user5",
+    "group" : "Group5",
+    "icon" : "DEBIAN"
+  }, {
+    "id" : "106",
+    "name" : "Dummy Host 6",
+    "hostname" : "192.168.1.106",
+    "port" : 22,
+    "username" : "user6",
+    "group" : "Group6",
+    "icon" : "ARCH"
+  }, {
+    "id" : "107",
+    "name" : "Dummy Host 7",
+    "hostname" : "192.168.1.107",
+    "port" : 22,
+    "username" : "user7",
+    "group" : "Group7",
+    "icon" : "UBUNTU"
+  }, {
+    "id" : "108",
+    "name" : "Dummy Host 8",
+    "hostname" : "192.168.1.108",
+    "port" : 22,
+    "username" : "user8",
+    "group" : "Group8",
+    "icon" : "LINUX"
+  }, {
+    "id" : "109",
+    "name" : "Dummy Host 9",
+    "hostname" : "192.168.1.109",
+    "port" : 22,
+    "username" : "user9",
+    "group" : "Group9",
+    "icon" : "NIXOS"
+  } ]
+}
