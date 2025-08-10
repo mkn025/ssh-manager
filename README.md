@@ -1,7 +1,3 @@
-# Programmet kjører ikke enda, men her er koden
-
-
-
 ## Video om funksjonalitet
 - [Demonstrasjonsvideo](https://www.youtube.com/watch?v=trXMLGWL6zs)
 
