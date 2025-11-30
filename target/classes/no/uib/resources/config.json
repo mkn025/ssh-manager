@@ -1,0 +1,13 @@
+{
+  "hosts": [
+    {
+      "id": "1",
+      "name": "Ubuntu_24.04-prox",
+      "hostname": "100.88.26.41",
+      "port": 22,
+      "username": "nitram",
+      "group": "Tailscale_cloud",
+      "icon": "UBUNTU"
+    }
+  ]
+}

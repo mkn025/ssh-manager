@@ -1,0 +1,23 @@
+{
+  "hosts" : 
+  [ 
+  {
+    "id" : "1",
+    "name" : "martin",
+    "hostname" : "test",
+    "port" : 666,
+    "username" : "nitram",
+    "group" : "UIB",
+    "icon" : "WINDOWS"
+  },
+ {
+    "id" : "2",
+    "name" : "nitram",
+    "hostname" : "test",
+    "port" : 999,
+    "username" : "martin",
+    "group" : "BIU",
+    "icon" : "MACOS"
+  }
+]
+}
