@@ -6,7 +6,7 @@
 - Et program for å administrere SSH-hoster, sette opp SSH port forwarding og overføre filer med SCP.
 - Kjør programmet med `mvn exec:java -Dexec.mainClass="no.uib.inf101.sshmanager.sshmanager"` fra rotmappen til prosjektet.
 
-## Om programmet
+## Om programmet 5
 `ssh-manager` er et program som hjelper deg med å holde styr på og utføre ulike operasjoner ved hjelp av SSH-protokollen. Har hentet litt inspirasjon fra programmet [Termius](https://termius.com/)
 
 
