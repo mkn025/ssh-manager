@@ -2,6 +2,7 @@
 - [Demonstrasjonsvideo](https://www.youtube.com/watch?v=trXMLGWL6zs)
 
 ## TL;DR
+- Test
 - Et program for å administrere SSH-hoster, sette opp SSH port forwarding og overføre filer med SCP.
 - Kjør programmet med `mvn exec:java -Dexec.mainClass="no.uib.inf101.sshmanager.sshmanager"` fra rotmappen til prosjektet.
 
